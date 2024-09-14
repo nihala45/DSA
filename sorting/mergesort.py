@@ -24,3 +24,5 @@ def merge(left,right):
     return result
 lst = [1,5,2,4,3]
 print(mergesort(lst))
+
+
